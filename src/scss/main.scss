@@ -1,0 +1,17 @@
+/* Fonts */
+@import './settings/_fonts.settings.scss';
+
+/* App global */
+@import './global/_app.global.scss';
+
+/* Settings */
+@import './settings/_colors.settings.scss';
+@import './settings/_headings.settings.scss';
+
+/* Components */
+@import './components/_rating.component.scss';
+
+body {
+    background-color: var(--very-dark-blue-color);
+}
+
