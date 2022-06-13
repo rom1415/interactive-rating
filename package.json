@@ -2,6 +2,7 @@
   "name": "rating",
   "version": "0.0.0",
   "scripts": {
+    "serve": "vite preview",
     "dev": "vite",
     "build": "vite build",
     "sass": "sass --watch src/scss/main.scss style/main.css",
